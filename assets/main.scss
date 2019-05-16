@@ -1,0 +1,100 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "styles";
+
+// Below you can add bits of CSS to override the default settings. I've included a couple to get you started. Just remove the "//" from the beginning of each line to activate it, and refresh your browser. For more information on CSS and how to use it, see https://www.w3schools.com/css/.
+
+// To change the fonts for the headings across the site:
+// h1, h2, h3, h4, h5 {
+  //  font-family: "Garamond", Arial, Helvetica, sans-serif;
+ //font-size: 100px;
+  //color: #4CAF50
+
+//}
+// If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
+
+
+// To change the fonts for the main site title:
+//THIS IS WHAT CODE LOOKED LIKE BEFORE CHANGES
+//header.masthead .page-heading h1, header.masthead .site-heading h1 {
+  //  font-family: Garamond, Times, serif;
+    //font-weight: bold;
+    //font-style: normal;
+//}
+
+header.masthead .page-heading h1, header.masthead .site-heading h1 {
+    font-family: Garamond, Times, serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+// To change the fonts for the main site navigation bar:
+
+#mainNav .navbar-brand {
+    font-family: Garamond, Garamond, Garamond;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+// To customise the navigation bar links:
+/*
+#mainNav .navbar-nav > li.nav-item > a {
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+    color: #4CAF50;
+}
+*/
+
+// To customise the way that tables look:
+
+/*
+table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table tr:hover {background-color: #ddd;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+*/
+
+// To see what the above does to tables, just remove those bits.
+
+h1 {
+  font-family: Garamond, serif;
+}
+
+header.masthead .page-heading h1, header.masthead .site-heading h1 {
+    font-family: Garamond, Times, serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+ h1, h2, h3, h4, h5 {
+   font-family: "Garamond", Arial, Helvetica, sans-serif;
+//font-size: 100px;
+ //color: #4CAF50
+
+}

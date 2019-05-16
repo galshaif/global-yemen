@@ -1,0 +1,27 @@
+title:             Gokh Amin Alshaif
+email:             galshaif@ucsb.edu
+description:    Historian of Modern Yemen
+author:            Gokh Amin Alshaif
+baseurl:           "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
+url:               "http://galshaif.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  updates:
+    output: true
+    permalink: /updates/:name
+
+# Social Profiles
+twitter_username:
+github_username:   galshaif
+facebook_username:
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate

@@ -1,0 +1,51 @@
+---
+layout: page
+title: Yemen War Updates
+description: This page includes links to recent stories, reports, and statistics for the ongoing war on Yemen.
+background: '/img/war.jpg'
+---
+
+<hr>
+
+{% for post in site.updates reversed %}
+
+<article class="post-preview">
+    <h2 class="post-title"><span style="color: red">{{ post.date | date: '%B %d, %Y' }}</span> : {{ post.title }}</h2>
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+    {% else %}
+    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+    {% endif %}
+    <p class="post-subtitle">{{ post.content }}</h3>
+  <p class="post-meta">Posted by
+    {% if post.author %}
+    {{ post.author }}
+    {% else %}
+    {{ site.author }}
+    {% endif %}
+    on
+    {{ post.date | date: '%B %d, %Y' }}</p>
+</article>
+
+<hr>
+
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+
+<div class="clearfix">
+
+  {% if paginator.previous_page %}
+  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
+    Newer<span class="d-none d-md-inline"> Posts</span></a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span
+      class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  {% endif %}
+
+</div>
+
+{% endif %}
