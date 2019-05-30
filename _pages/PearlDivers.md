@@ -7,10 +7,10 @@ background: '/img/pearl.jpg'
 
 Hello.
 
-Here you will find fascinating insight as to:
+Here you will find insight as to:
 * What Pearl Diver Slavery entailed
 * What pearl diving slavery looked like.
 * The experiences of pearl divers.
-* Statements from pearl divers 
+* Statements from pearl divers
 
 Come back soon!
