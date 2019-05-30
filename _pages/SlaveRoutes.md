@@ -2,7 +2,7 @@
 layout: page
 title: Slave Routes
 description: These are some slave routes.
-background: '/img/Slave2resized.jpg'
+background: '/img/map2.jpg'
 ---
 # Su’aiyid bin Hashim
 
