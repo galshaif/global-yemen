@@ -3,7 +3,7 @@ email:
 description:       Mapping the East African Slave Trade to the Arabian Peninsula
 author:            Gokh Amin Alshaif & Eric Massie
 baseurl:           "/African-Arab-SlaveTrade" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url:               "African-Arab-SlaveTrade.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+url:               "http://galshaif.github.io/African-Arab-SlaveTrade" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
 
 collections:
   pages:
