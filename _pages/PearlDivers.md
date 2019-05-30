@@ -2,7 +2,7 @@
 layout: page
 title: Pearl Divers
 description: This is what slavery of Pearl Divers was like.
-background: '/img/Slave1.jpg'
+background: '/img/pearl.jpg'
 ---
 
 Hello.
