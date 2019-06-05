@@ -319,7 +319,7 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
 
 #mainNav .navbar-brand {
   font-family: Garamond, Garamond, Garamond;
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal; }
 
 /*
@@ -408,3 +408,7 @@ h1, h2, h3, h4, h5 {
 .slideIn {
   -webkit-animation-name: slideIn;
   animation-name: slideIn; }
+
+#mainNav .navbar-brand {
+  font-weight: normal;
+  font-style: normal; }

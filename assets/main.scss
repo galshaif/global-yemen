@@ -4,6 +4,7 @@
 
 @import "styles";
 
+
 // Below you can add bits of CSS to override the default settings. I've included a couple to get you started. Just remove the "//" from the beginning of each line to activate it, and refresh your browser. For more information on CSS and how to use it, see https://www.w3schools.com/css/.
 
 // To change the fonts for the headings across the site:
@@ -30,14 +31,12 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
     font-style: normal;
 }
 
-
-// To change the fonts for the main site navigation bar:
-
 #mainNav .navbar-brand {
     font-family: Garamond, Garamond, Garamond;
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
 }
+
 
 
 // To customise the navigation bar links:
@@ -159,4 +158,13 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
 .slideIn {
   -webkit-animation-name: slideIn;
   animation-name: slideIn;
+}
+
+
+// To change the fonts for the main site navigation bar:
+
+#mainNav .navbar-brand {
+//    font-family:;
+    font-weight: normal;
+    font-style: normal;
 }
