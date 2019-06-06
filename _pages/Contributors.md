@@ -11,3 +11,7 @@ Gokh is a History PhD student studying the history of the modern Middle East. Sh
 
 # Eric Massie
 hello
+
+
+# Special Thanks
+We would also like to give a special thanks to [Dr. Juan Cobo Betancourt](www.juancobo.com) for creating the page templates used here, providing extensive help trouble-shooting site issues, and introducing us to the digital tools needed to create this project. Thank you, Dr. Cobo!
