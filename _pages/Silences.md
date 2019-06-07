@@ -5,12 +5,4 @@ description: This is what we couldn't do.
 background: '/img/Slave1.jpg'
 ---
 
-Hello.
-
-Here you will find fascinating insight as to:
-* The power and limits of the archives
-* The silences that currently exist when it comes to studying slavery in the Arabian Peninsula and Persian Gulf.
-* Challenges we faced doing this project
-* Reflections on how we can work within these silences, and what they tell us about slave experiences
-
-Come back soon!
+The slave manumission statements found in the British archives were not merely meant to satisfy a bureaucratic hurdle by providing a defensible account in defense of their manumitting authority, but were intended to provide actionable intelligence on slave-trading activities formally prohibited by Britain’s slave trade agreements with the various local authorities of the Persian Gulf. As such, it is important to keep in mind what the slave manumission statements were intended for, and what they were not. The statements were not intended to be comprehensive biographies of slaves’ lived experience. Rather, the statements were intended to provide targeted information about two related aspects of the slave’s life: 1) Was the slave imported illegally or otherwise sold in violation of Britain’s anti-slave trade agreements? And 2) What information can the slave provide about ongoing slave trading patterns, including slave catchers and dealers, that might permit the British to intervene diplomatically or navally? As such, the statements can often read formulaically and do not always contain all of the information that historians would want. Although some statements do provide substantially greater details than most, we are nevertheless faced with certain real limitations in the use of slave manumission statements as recorded by British consular officials. The statements are subject to significant silences and limitations that I will expand upon in the future. 

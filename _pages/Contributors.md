@@ -10,7 +10,7 @@ Gokh is a History PhD student studying the history of the modern Middle East. Sh
 
 
 # Eric Massie
-hello
+Eric is a doctoral candidate in History specializing in the history of the modern Middle East. He received two B.A.s in History and Political Science from California State University, San Bernardino and an M.A. from the University of California, Santa Barbara. Eric’s research interests include the social history of labor and the politics of space in the Persian Gulf and Iran. His dissertation, titled “The Bonds that Bind: Slavery and Familial Relations in the Persian Gulf, 19th and 20th Centuries,” analyzes the lived reality of slavery amidst changing political, economic, and social conditions in the late 19th and 20th century Persian Gulf.
 
 
 # Special Thanks

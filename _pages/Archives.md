@@ -5,11 +5,4 @@ description: This is what we used.
 background: '/img/Slave1.jpg'
 ---
 
-Hello.
-
-Here you will find fascinating insight as to:
-* What archives we used in this project (Spoiler Alert: British India Office Records and others)
-* What Manumission Statements we used.
-* How we used these sources.
-
-Come back soon!
+Slave manumission statements and other biographical and demographic information about slaves can be found throughout British consular and naval records in the Indian Office and Foreign Office Archives available at the British Library and British National Archives at the Kew. This project has also recently been facilitated by the efforts of Qatar and the United Arab Emirates to digitize and to make publicly available over the internet British archival materials related to slavery. Included in these archives are slave statements recorded by British consular officials for the purposes of determining if slaves met certain conditions for consular manumission as conditioned by Britain’s treaty relations with the various sheikhdoms and states of the Persian Gulf. Slaves who absconded to British consulates and political residences, located in Iran, Bahrain, the Trucial Coast, Oman, and later Qatar could be granted manumission certificates by British consular and political authorities if they could demonstrate via their testimonies that they had been imported to the region after certain prescribed times or if they could demonstrate that they had been abused beyond certain prescribed limits. As part of this process, hundreds of slave testimonies were recorded in response to a set of prescribed questions that provide a tremendous amount of information about the lived experience of slaves in the Persian Gulf, and by extension, about various methods of enslavement and transport

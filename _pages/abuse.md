@@ -5,10 +5,4 @@ description:
 background: '/img/slave6.jpg'
 ---
 
-Hello.
-
-Here you will find insight as to:
-* The different kind of abuse & sexual assault that slaves experienced
-
-
-Come back soon!
+Slaves were subject to various forms of abuse including physical abuse such as with sticks or other implements, temporary or prolonged fettering and shackling, as well as other forms of indirect and emotional abuse that encapsulated slave vulnerabilities, such as sale, familial dissolution, insults, the depriving of basic monetary maintenance, etc. 
