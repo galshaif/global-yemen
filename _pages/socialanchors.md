@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social Anchors
-description: The social anchors slave owners exploited to discourage slaves from running away 
+description: The social anchors slave owners exploited to discourage slaves from running away
 background: '/img/slave7.jpg'
 ---
 

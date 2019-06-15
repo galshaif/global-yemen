@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <title>Points on a map</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id='map'></div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZ2Fsc2hhaWYiLCJhIjoiY2pyaDFjMjl5MWgyYzQ5cXF2d3VlaWpjYiJ9.OEhQEgL1Bk34MgfDwHs5eQ'; // replace this with your access token
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/galshaif/cjt7of1cn04wx1fo8sht9vypc', // replace this with your style URL
+      center: [46.058072, 13.601136],
+      zoom: 3.7
+    });
+    map.on('click', function(e) {
+      var features = map.queryRenderedFeatures(e.point, {
+        layers: ['maryam-points'] // replace this with the name of the layer
+      });
+
+      if (!features.length) {
+        return;
+      }
+
+      var feature = features[0];
+
+      var popup = new mapboxgl.Popup({ offset: [0, -15] })
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML('<h3>' + feature.properties.Description + '</h3><p>' + feature.properties.description + '</p>')
+            //this code above is the name of the feature that you want to 'pop-up'. change 'description' to value on excel sheet you want to display (ex: age, location, etc.)
+        .setLngLat(feature.geometry.coordinates)
+        .addTo(map);
+    });    </script>
+  </body>
+</html>

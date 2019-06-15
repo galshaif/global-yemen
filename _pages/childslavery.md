@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Child Slavery
-description: This is what child slavery was like.
+description:
 background: '/img/child1.jpg'
 ---
 
-Hello.
+In Islamic law, children born to enslaved women inherited their mothers’ slave status. The only exception to this rule were children born of unions between enslaved women and their masters. In this case, the children of [umm walads](/concubine), as such women were legally categorized, inherited the free status of their fathers and were considered full, legal heirs of the father’s estate so long as he acknowledged paternity.
 
-Here you will find insight as to:
+Come back to this page to find more insight on:
 * What child slavery entailed
 * What child slavery looked like.
-
-
-Come back soon!
+* More on Islamic Law and slavery
