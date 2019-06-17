@@ -14,4 +14,4 @@ Eric is a doctoral candidate in History specializing in the history of the moder
 
 
 # Special Thanks
-We would also like to give a special thanks to [Dr. Juan Cobo Betancourt](www.juancobo.com) for creating the page templates used here, providing extensive help trouble-shooting site issues, and introducing us to the digital tools needed to create this project. Thank you, Dr. Cobo!
+We would also like to give a special thanks to [Dr. Juan Cobo Betancourt](https://www.history.ucsb.edu/faculty/juan-cobo/) for creating the page templates used here, providing extensive help trouble-shooting site issues, and introducing us to the digital tools needed to create this project. Thank you, Dr. Cobo!
