@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Songs
+title: Archives & Manumission Statements
 description: This is what we used.
 background: '/img/Slave1.jpg'
 ---

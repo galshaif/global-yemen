@@ -1,9 +1,9 @@
-title:             The Global Yemen Project
+title:             The Indian Ocean Slave Trade
 email:
-description:       Narrating Yemen's Global Histories
-author:            Gokh Amin Alshaif
+description:       Mapping Slave Journeys in the Indian Ocean Slave Trade
+author:            Gokh Amin Alshaif & Eric Massie
 baseurl:           "/" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url:               "" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+url:               "https://arabslavetrade.gokhamin.com" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
 
 collections:
   pages:
@@ -14,7 +14,7 @@ collections:
     permalink: /updates/:name
 
 # Social Profiles
-twitter_username: @GokhAminAlshaif
+twitter_username:
 github_username:   galshaif
 facebook_username:
 
