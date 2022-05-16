@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Art
-description:
+title: Silences in the Archives
+description: 
 background: '/img/Slave1.jpg'
 ---
 
