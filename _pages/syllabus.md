@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who can be made a slave?
+title: Oceanic Yemen Syllabus
 description:
 background: '/img/slave7.jpg'
 ---
