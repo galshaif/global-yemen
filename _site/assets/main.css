@@ -319,7 +319,7 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
 
 #mainNav .navbar-brand {
   font-family: Garamond, Garamond, Garamond;
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal; }
 
 /*
@@ -365,3 +365,50 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
 
 h1, h2, h3, h4, h5 {
   font-family: "Garamond", Arial, Helvetica, sans-serif; }
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: .25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0; }
+
+/* Change this breakpoint if you change the breakpoint of the navbar */
+@media (min-width: 992px) {
+  .animate {
+    animation-duration: 0.3s;
+    -webkit-animation-duration: 0.3s;
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both; } }
+@keyframes slideIn {
+  0% {
+    transform: translateY(1rem);
+    opacity: 0; }
+  100% {
+    transform: translateY(0rem);
+    opacity: 1; }
+  0% {
+    transform: translateY(1rem);
+    opacity: 0; } }
+@-webkit-keyframes slideIn {
+  0% {
+    -webkit-transform: transform;
+    -webkit-opacity: 0; }
+  100% {
+    -webkit-transform: translateY(0);
+    -webkit-opacity: 1; }
+  0% {
+    -webkit-transform: translateY(1rem);
+    -webkit-opacity: 0; } }
+.slideIn {
+  -webkit-animation-name: slideIn;
+  animation-name: slideIn; }
+
+#mainNav .navbar-brand {
+  font-weight: normal;
+  font-style: normal; }
