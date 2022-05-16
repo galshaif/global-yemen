@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Domestic Labor
-description: This is what domestic slavery was like.
+title: Qassayed
+description: 
 background: '/img/slave3.jpg'
 ---
 
