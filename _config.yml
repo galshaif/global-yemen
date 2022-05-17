@@ -3,7 +3,7 @@ email:
 description:       Narrating Yemen's Global Histories
 author:            Gokh Amin Alshaif
 baseurl:           "/" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url:               "https://globalyemen.gokhamin.com" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+url:               "https://arabslavetrade.gokhamin.com" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
 
 collections:
   pages:
