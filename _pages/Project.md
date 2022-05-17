@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aims of the Project
-description: This is what we are trying to do.
+title: About the Project
+description: 
 background: '/img/Slave1.jpg'
 ---
 

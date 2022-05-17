@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Abuse & Sexual Assault
-description:
+title: Annotated Syllabus
+description: 
 background: '/img/slave6.jpg'
 ---
 

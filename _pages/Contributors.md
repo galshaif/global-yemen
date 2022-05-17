@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contributors
+title: The Contributors
 description: This is who we are.
 background: '/img/Slave1.jpg'
 ---

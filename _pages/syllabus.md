@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Date Farmers
+title: Oceanic Yemen Syllabus
 description:
 background: '/img/slave3.jpg'
 ---

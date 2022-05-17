@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pearl Divers
-description: This is what slavery of Pearl Divers was like.
+title: Valley Songs
+description: 
 background: '/img/pearl.jpg'
 ---
 
