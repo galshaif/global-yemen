@@ -2,7 +2,7 @@
 layout: page
 title: About the Art
 description:
-background: '/img/slave6.jpg'
+background: '/img/noor.jpg'
 ---
 
 <p align="justify">

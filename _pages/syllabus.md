@@ -2,7 +2,7 @@
 layout: page
 title: Oceanic Yemen Syllabus
 description:
-background: '/img/slave3.jpg'
+background: '/img/coffees.jpg'
 ---
 <p align="justify">
 The “Yemen” perhaps most familiar to us is one situated at the foot of the Arabian Peninsula and within the confines of Middle East Studies. It is a Territorial Yemen that orients its histories northwards towards Mecca and the broader “Arab” and Islamic world. But what if we were to reorient Yemen southward towards the Indian Ocean? What histories might an “Oceanic Yemen” reveal that a Territorial Middle Eastern Yemen obstructs? When Yemen shares its world with East Africa, South Asia, and Southeast Asia instead of the Gulf and Levant, what individuals become newly included in the category of the “Yemeni”? The Oceanic Yemen Syllabus presents tools to help us grapple with these questions. </p>
@@ -27,4 +27,4 @@ The collection of work included below begins to do this work. TGYP will continue
 * a
 
 **SHORT FILMS**
-* d 
+* d

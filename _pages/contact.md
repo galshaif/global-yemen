@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 description:
-background: '/img/map8.jpg'
+background: '/img/contact.jpg'
 ---
 
 # Gokh Amin Alshaif
