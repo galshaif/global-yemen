@@ -25,9 +25,9 @@ table {
 <br>
 <table>
   <tr>
-    <th>Lyricist: Sultan al-Sarimi
-    <br>Composer: Unknown
-    <br> Singer: Amal Ka’dil</th>
+    <th>Songwriter: Sultan al-Sarimi
+    <br>Song Composer: Unknown
+    <br>Original Vocals: Amal Ka’dil</th>
 
     <th>كاتب الاغنية : سلطان الصريمي
     <br>ملحن الاغنية : غير معروف
