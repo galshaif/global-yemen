@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poems & Songs
+title: Qasida |  Ode
 description: قصائد و أغاني
 background: '/img/dances80.jpg'
 ---

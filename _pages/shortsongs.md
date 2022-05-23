@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short Songs
+title: Ghunwia | Short Songs
 description: غُنوية
 background: '/img/shortsong.jpg'
 ---

@@ -28,7 +28,9 @@ All the women who participated in this collection asked that they remain anonymo
 <p align="justify">
 Songs of Yearning includes three different types of songs women sang: <i><a href="https://gokhamin.com/global-yemen/valleysongs">ma’yna</a></i> (valley rhymes),<i> <a href="https://gokhamin.com/global-yemen/shortsongs">ghunwia</a></i> (short songs), and <i><a href="https://gokhamin.com/global-yemen/qassayed">qasida</a></i> (formal ode).</p>
 
-<h4> Ma’yna | معينة | Valley Rhymes </h4>
+<h4>
+<a href="https://gokhamin.com/global-yemen/valleysongs"> Ma’yna | معينة | Valley Rhymes </a>
+ </h4>
 
 <p align="justify">
 <i><a href="https://gokhamin.com/global-yemen/valleysongs">Ma’yna</a></i> (valley rhymes) are often four lines long with each line sung in a drawn-out manner. They are often sung inside valleys sometimes surrounded by an audience; other times, they are sung alone while harvesting crops or herding animals. The singer sings one line at a time pausing to hear the line reverberate on the valley walls. Both men and women sing valley rhymes.  Below are two examples of these type of songs.</p>
@@ -37,7 +39,9 @@ Songs of Yearning includes three different types of songs women sang: <i><a href
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2KYVbvuzLjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<h4>Ghunwia | غُنوية |Short Song</h4>
+<h4>
+<a href="https://gokhamin.com/global-yemen/shortsongs">Ghunwia | غُنوية | Short Song</a>
+</h4>
 
 <p align="justify">
 A <i> <a href="https://gokhamin.com/global-yemen/shortsongs">ghunwia</a></i> differs from a <i>'ughnia</i> (أغنية) in that the former is usually only two lines long sung in a repetitive manner and with a mournful melody. A <i>'ughnia</i> on the other hand is the more familiar folksong with multiple lines and sung in various melodies.</p>
@@ -48,7 +52,11 @@ Nadwa Adra's <a href="https://najwaadra.net/oralpoet.pdf">ethnographic work</a> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YaxZ5f7wpvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
- <h4> Qasida| قصيدة  | Formal Ode </h4>
+ <h4>
+<a href="https://gokhamin.com/global-yemen/qassayed"> Qasida| قصيدة  | Formal Ode </a>
+
+
+ </h4>
 
 <p align="justify">
 A <i><a href="https://gokhamin.com/global-yemen/qassayed">qasida</a></i> is a long form poem that is most literally translated as an ode. It is several verses long and is often composed in multiple sittings. The ode is then set to a melody and sung to others. It is often dedicated to someone or composed to respond or reflect on a situation. Below is an example of a <i>qasida</i> by an unnamed Yemeni woman to her husband who has left her for the <i>ghurba</i>. She reflects on her situation (or “fate”) and shares with him the sorrows his absence has caused her.</p>
