@@ -62,7 +62,7 @@ Nadwa Adra's <a href="https://najwaadra.net/oralpoet.pdf">ethnographic work</a> 
 <br>
 
  <h4>
-<a href="https://gokhamin.com/global-yemen/qassayed"> Qasida| قصيدة  | Formal Ode </a>
+<a href="https://gokhamin.com/global-yemen/qassayed"> Qasida | قصيدة  | Formal Ode </a>
 
 
  </h4>
