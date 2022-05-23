@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M'ayna | Valley Rhymes
+title: Valley Rhymes
 description: معينة
 background: '/img/valley.jpg'
 ---
