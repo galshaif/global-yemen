@@ -41,7 +41,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator’s note: F.B.H. husband left her as a young bride to be a seaman in England. She sings this song in the early years of his departure. We get a window into how she views England (“the land of the Christians”) the kinds of women her love needs rescuing from their temptation. F.B.H. had never left her village before she sung this song, let alone seen England. Yet, England looms large in her life. The term “<i>girshiban</i>” was difficult to translate, as it appears to be a term many women in Ibb use to describe those who work on ships. At the end, ship stewardess seemed to be the most appropriate term to use.</i>
+<b>Translator’s note:</b> <i>F.B.H. husband left her as a young bride to be a seaman in England. She sings this song in the early years of his departure. We get a window into how she views England (“the land of the Christians”) the kinds of women her love needs rescuing from their temptation. F.B.H. had never left her village before she sung this song, let alone seen England. Yet, England looms large in her life. The term “<i>girshiban</i>” was difficult to translate, as it appears to be a term many women in Ibb use to describe those who work on ships. At the end, ship stewardess seemed to be the most appropriate term to use.</i>
 </p>
 </body>
 </html>
@@ -87,7 +87,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator’s note: Nine years has passed since F.B.H. last saw her husband. She mourns her wasted youth and promised marriage life. She wonders how much more must she pray before God answers her prayers for her husband’s return. The first line of <i>ya hanyni hanyn</i> (يا حنين حنين) is a difficult phrase to translate. <i>hanyn</i> refers to the heavy and depressive feeling that one feels in times of great sorrow. The full phrase refers to a state of self-wallow for the lack of a better translation.</i>
+<b>Translator’s note:</b> <i> Nine years has passed since F.B.H. last saw her husband. She mourns her wasted youth and promised marriage life. She wonders how much more must she pray before God answers her prayers for her husband’s return. The first line of <i>ya hanyni hanyn</i> (يا حنين حنين) is a difficult phrase to translate. <i>hanyn</i> refers to the heavy and depressive feeling that one feels in times of great sorrow. The full phrase refers to a state of self-wallow for the lack of a better translation.</i>
 </p>
 </body>
 </html>
@@ -133,7 +133,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator’s note: F.B.H. sorrow now turns into anger as even more years pass with no sign of her husband’s return. She curses him for not returning to her during her childbearing years. Nor does he divorce her freeing her to remarry and find a more honorable place in another’s home.</i>
+<b>Translator’s note:</b> <i> F.B.H. sorrow now turns into anger as even more years pass with no sign of her husband’s return. She curses him for not returning to her during her childbearing years. Nor does he divorce her freeing her to remarry and find a more honorable place in another’s home.</i>
 </p>
 </body>
 </html>
@@ -183,7 +183,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator’s note: After 25 consecutive years in England, F.B.H.'s  love she had yearned for has finally returned. However, after realizing she was now in her post childbearing years, he divorces her, remarries, and conceives children with his new young bride. In this song, she demands that people deliver her sorrow to Aden and to shame her ex-in-laws. She curses her former husband for taking her best years and leaving her childless. He left her a young “blossoming” bride; but today, the turmeric she once applied to her face in an attempt to preserve its youth for him now dries like “shards” on her creased face. Aden, in many of these songs, appears as a place where news travels. It is the place where letters and remittances from those in the <i>ghurba</i> arrives to the families they left behind. It is both a place for global networks and for local news to travel throughout local internal networks.</i>
+<b>Translator’s note:</b> <i> After 25 consecutive years in England, F.B.H.'s  love she had yearned for has finally returned. However, after realizing she was now in her post childbearing years, he divorces her, remarries, and conceives children with his new young bride. In this song, she demands that people deliver her sorrow to Aden and to shame her ex-in-laws. She curses her former husband for taking her best years and leaving her childless. He left her a young “blossoming” bride; but today, the turmeric she once applied to her face in an attempt to preserve its youth for him now dries like “shards” on her creased face. Aden, in many of these songs, appears as a place where news travels. It is the place where letters and remittances from those in the <i>ghurba</i> arrives to the families they left behind. It is both a place for global networks and for local news to travel throughout local internal networks.</i>
 </p>
 </body>
 </html>
@@ -212,7 +212,7 @@ table {
   <tr>
     <td>Oh America, [may God] irrigate you
 <br>Oh Garden of Limes and Apples,
-<br>I beseech you to watch over my love
+<br>I beseech you; watch over my love
 <br>who came to tour [you] and [find] rest
 
 </td>
@@ -228,7 +228,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator’s note: coming soon.</i>
+<b>Translator’s note:</b> <i> in progress.</i>
 </p>
 </body>
 </html>

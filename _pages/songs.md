@@ -19,10 +19,19 @@ Steven Caton’s <a href="https://www.ucpress.edu/book/9780520082618/peaks-of-ye
 <p align="justify">
 As the songs included in TGYP show, women sang of the lemon trees of <i>“Meraykin”</i> (America) beseeching them to protect their loves. They yearned to rescue their lovers from the clutch of the bare women of <i>“bilad al nasarah”</i> (i.e. Britain, though the phrase literally translates to “the land of the Christians”). From within the valley and as their songs reverberated from its walls, these women performed diaspora. They teach us what those works included in the <a href="https://gokhamin.com/global-yemen/syllabus">Oceanic Yemen Syllabus</a> do: Yemen is not a place suspended in time nor blocked off from the rest of the world. Even when Yemenis do not traverse oceans, the world comes to them.</p>
 
-<h2>The Women & The Methodology</h2>
+<h2>The Women & Methodology</h2>
 
 <p align="justify">
-All the women who participated in this collection asked that they remain anonymous and only be identified by pseudonyms.</p>
+The songs currently included in this collection were composed by Yemeni women of the highlands. The project plans to expand the collection in future phases to include women from other parts of Yemen especially those from its southern coast. Many of these songs were written between the 1960s and the 1980s when the husbands, fathers, and brothers of these women were part of the thousands of Yemeni men working in the <i>ghurba</i>.</p>
+
+<p align="justify">
+Though written several decades ago and though some of these women have since joined their husbands abroad, these women continue to sing these songs. They use them to narrate their own histories and arguably those of Yemen. As they shared with me their stories and those of their mothers and aunts, the stories were always punctured with lines of song and poetry that a subject of the story wrote during a specific instance. I recorded these sessions and the women singing these songs; however, all of them asked that their voices not be shared and that only their lyrics under pseudonyms be included.</p>
+
+<p align="justify">
+As you read their words, consider what they may reveal about the ways Yemeniat use songs to cope, mourn, or pray. Though many of these women believe that a woman’s singing is an intimate and sometimes private act, they sang these songs in Yemen’s low valleys so that their deepest desires and sorrows reverberated on its valley walls. A song that a woman composed for her absent love might then be picked up by other women in the valley who adjusted its words to better reflect their own diasporic realities. How might performing these songs in these ways challenge how we understand the divide between the intimate and the public?</p>
+
+<p align="justify">
+For many of these women, songs and poetry were ways to make meaning out of their “strange tales.”  When some of these women later joined their husbands abroad and raised their families outside of Yemen’s highlands, their songs took on new meanings. They became about yearning for the valleys that once echoed their stories, about the parents they left behind, and about the children they raised in the <i>ghurba</i> and the husbands they buried there. These women continued to use song to make meaning of their social and material conditions. </p>
 
 <h2> Types of Songs</h2>
 <p align="justify">

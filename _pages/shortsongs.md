@@ -36,7 +36,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator’s note: Umm Muhammad contemplates the “strange tale” she finds herself in: She married the love of her life, only for him to leave her for America before the arrival of their first wedding anniversary. He remains away for seven years and seven months. Since he left her embrace, she has found no comfort nor rest and with little sweet words from her love. The phrase “<i>mathat ’alaya</i>”  (مضت عليا) literally translates to “has passed me by;” however, it is translated here as “befallen me,” because it best captures the engulfed feeling she attempts to describe. This strange tale has not yet “passed” her, but instead is still very much the story to which she is presently subject. The word “<i>khal,</i>” (الخلّ) is translated to “my lover.” The word is the same word for “vinegar;” however, Umm Muhammad explained it is also another word for a beloved. The translation reflects her guidance.</i>
+<b>Translator’s note:</b> <i>Umm Muhammad contemplates the “strange tale” she finds herself in: She married the love of her life, only for him to leave her for America before the arrival of their first wedding anniversary. He remains away for seven years and seven months. Since he left her embrace, she has found no comfort nor rest and with little sweet words from her love. The phrase “<i>mathat ’alaya</i>”  (مضت عليا) literally translates to “has passed me by;” however, it is translated here as “befallen me,” because it best captures the engulfed feeling she attempts to describe. This strange tale has not yet “passed” her, but instead is still very much the story to which she is presently subject. The word “<i>khal,</i>” (الخلّ) is translated to “my lover.” The word is the same word for “vinegar;” however, Umm Muhammad explained it is also another word for a beloved. The translation reflects her guidance.</i>
 </p>
 </body>
 </html>
@@ -75,7 +75,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator’s note: Umm Muhammad draws on the imagery of a wasps sting to describe her heart’s stinging for her absent love. The word for wasp used in Yemen is <i>hirab</i>( حِرَبْ ) though some may recognize that the word is similar to that of <i>harb</i> (حرب), the Arabic word for war.</i>
+<b>Translator’s note:</b> <i>Umm Muhammad draws on the imagery of a wasps sting to describe her heart’s stinging for her absent love. The word for wasp used in Yemen is <i>hirab</i>( حِرَبْ ) though some may recognize that the word is similar to that of <i>harb</i> (حرب), the Arabic word for war.</i>
 </p>
 </body>
 </html>
@@ -115,7 +115,7 @@ table {
 </table>
 
 <p align="justify">
-<i>Translator’s note: This song was written to a departed husband and reflects the sorrow and yearning a wife has for him as he dwells beyond her reach. The phrase “<i> haniyt lak</i>” (هنيت لك) can translate to “congratulations to you;” however, a more appropriate translation and one more reflective of the phrase’s use in Yemen is “I envy you.” Here, she envy’s her love’s escape to the afterlife, away from the heavy load she now must carry as she raising their children alone.</i>
+<b>Translator’s note:</b> <i>This song was written to a departed husband and reflects the sorrow and yearning a wife has for him as he dwells beyond her reach. The phrase “<i> haniyt lak</i>” (هنيت لك) can translate to “congratulations to you;” however, a more appropriate translation and one more reflective of the phrase’s use in Yemen is “I envy you.” Here, she envy’s her love’s escape to the afterlife, away from the heavy load she now must carry as she raised their children alone.</i>
 </p>
 </body>
 </html>
