@@ -19,8 +19,6 @@ The collection of work included below begins to do this work. TGYP will continue
   <h2> *** </h2>
 </center>
 
-
-
 ### MONOGRAPHS
 
 Alatas, Ismail Fajrie. _What Is Religious Authority?: Cultivating Islamic Communities in Indonesia_. Princeton University Press, 2021.
@@ -57,6 +55,7 @@ Willis, John M. _Unmaking North and South: Cartographies of the Yemeni Past, 185
 
 Yahaya, Nurfadzilah. _Fluid Jurisdictions: Colonial Law and Arabs in Southeast Asia_. Cornell University Press, 2020.
 
+<br>
 
 ### ARTICLES
 
@@ -76,15 +75,14 @@ Walker, Iain. (2008) “Hadramis, Shimalis and Muwalladin: Negotiating Cosmopoli
 
 Willis, John M. "Making Yemen Indian: Rewriting the Boundaries of imperial Arabia." _International Journal of Middle East Studies_ 41, no. 1 (2009): 23-38.
 
-
-
+<br>
 ### LITERATURE
 
 Abdul Wali, Muhammad. _They Die Strangers_. University of Texas Press. 2001.
 
 Al-Muqri, Ali. _Ta’m aswad, ra’iha sauda. (Black Taste, Black Odor)_. Dar El-Saqi, Beirut. 2008. 	
 
-
+<br>
 ### SHORT FILMS
 
 <p align="justify"><i>
