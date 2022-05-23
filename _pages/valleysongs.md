@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Valley Rhymes
-description: معينة
+title:  معينة
+description: Valley Rhymes
 background: '/img/valley.jpg'
 ---
 <!-- I wish I Were-->
@@ -184,6 +184,51 @@ table {
 </table>
 <p align="justify">
 <i>Translator’s note: After 25 consecutive years in England, F.B.H.'s  love she had yearned for has finally returned. However, after realizing she was now in her post childbearing years, he divorces her, remarries, and conceives children with his new young bride. In this song, she demands that people deliver her sorrow to Aden and to shame her ex-in-laws. She curses her former husband for taking her best years and leaving her childless. He left her a young “blossoming” bride; but today, the turmeric she once applied to her face in an attempt to preserve its youth for him now dries like “shards” on her creased face. Aden, in many of these songs, appears as a place where news travels. It is the place where letters and remittances from those in the <i>ghurba</i> arrives to the families they left behind. It is both a place for global networks and for local news to travel throughout local internal networks.</i>
+</p>
+</body>
+</html>
+<p>
+</p>
+<br>
+
+<!-- Oh America-->
+<html>
+<head>
+<style>
+table {
+  width: 100%;
+  border: ;
+}
+</style>
+</head>
+<body>
+
+<h3>Oh America | يا مريكن </h3>
+<table>
+  <tr>
+    <th>A.T.R.</th>
+  <right><th>.أ.ت.ر</th></right>
+  </tr>
+  <tr>
+    <td>Oh America, [may God] irrigate you
+<br>Oh Garden of Limes and Apples,
+<br>I beseech you to watch over my love
+<br>who came to tour [you] and [find] rest
+
+</td>
+    <td>
+<right>
+يا مريكن سقاش
+<br>يا مزرع الليم والتفاح
+<br>امانتش بالحبيب
+<br>ذي جاء يجول ويرتاح
+<br>
+</right>
+</td>
+  </tr>
+</table>
+<p align="justify">
+<i>Translator’s note: coming soon.</i>
 </p>
 </body>
 </html>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Odes & Songs
-description: قصائد و أغاني
+title:  قصائد و أغاني
+description: Odes & Songs
 background: '/img/dances80.jpg'
 ---
 

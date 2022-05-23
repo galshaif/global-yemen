@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Short Songs
-description: غُنوية
+title:  غُنوية
+description: Short Songs
 background: '/img/shortsong.jpg'
 ---
 <!-- A Strange Tale -->
@@ -36,7 +36,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator's note:Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. </i>
+<i>Translator’s note: Umm Muhammad contemplates the “strange tale” she finds herself in: She married the love of her life, only for him to leave her for America before the arrival of their first wedding anniversary. He remains away for seven years and seven months. Since he left her embrace, she has found no comfort nor rest and with little sweet words from her love. The phrase “<i>mathat ’alaya</i>”  (مضت عليا) literally translates to “has passed me by;” however, it is translated here as “befallen me,” because it best captures the engulfed feeling she attempts to describe. This strange tale has not yet “passed” her, but instead is still very much the story to which she is presently subject. The word “<i>khal,</i>” (الخلّ) is translated to “my lover.” The word is the same word for “vinegar;” however, Umm Muhammad explained it is also another word for a beloved. The translation reflects her guidance.</i>
 </p>
 </body>
 </html>
@@ -75,7 +75,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<i>Translator's note: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</i>
+<i>Translator’s note: Umm Muhammad draws on the imagery of a wasps sting to describe her heart’s stinging for her absent love. The word for wasp used in Yemen is <i>hirab</i>( حِرَبْ ) though some may recognize that the word is similar to that of <i>harb</i> (حرب), the Arabic word for war.</i>
 </p>
 </body>
 </html>
@@ -97,8 +97,8 @@ table {
 <h3>To the Dweller of the Grave |  إلى ساكن المقابر</h3>
 <table>
   <tr>
-    <th>Umm Muhammed</th>
-    <right><th>ام محمد</th></right>
+    <th>A.Z.N.</th>
+    <right><th>.أ.ز.ن</th></right>
   </tr>
   <tr>
     <td>I envy you, oh Dweller of the Grave
@@ -115,7 +115,7 @@ table {
 </table>
 
 <p align="justify">
-<i>Translator's note: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</i>
+<i>Translator’s note: This song was written to a departed husband and reflects the sorrow and yearning a wife has for him as he dwells beyond her reach. The phrase “<i> haniyt lak</i>” (هنيت لك) can translate to “congratulations to you;” however, a more appropriate translation and one more reflective of the phrase’s use in Yemen is “I envy you.” Here, she envy’s her love’s escape to the afterlife, away from the heavy load she now must carry as she raising their children alone.</i>
 </p>
 </body>
 </html>
