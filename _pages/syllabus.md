@@ -77,10 +77,23 @@ Willis, John M. "Making Yemen Indian: Rewriting the Boundaries of imperial Arabi
 
 <br>
 ### LITERATURE
+**NOVELS**
 
 Abdul Wali, Muhammad. _They Die Strangers_. University of Texas Press. 2001.
 
 Al-Muqri, Ali. _Ta’m aswad, ra’iha sauda. (Black Taste, Black Odor)_. Dar El-Saqi, Beirut. 2008. 	
+
+**SHORT STORIES**
+
+Abdul Wali, Muhammad. "The Ghoul."
+
+Abdul Wali, Muhammad. "The Chinese Road."
+
+Abdul Wali, Muhammad. "The Land, Salma."
+
+Abdul Wali, Muhammad. "On the Road to Asmara."
+
+Abdul Wali, Muhammad. "Abu Rupee."
 
 <br>
 ### SHORT FILMS
