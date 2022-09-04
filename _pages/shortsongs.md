@@ -19,7 +19,7 @@ table {
 <h3>A Strange Tale | قِصة عجيبة</h3>
 <table>
   <tr>
-    <th>Umm Muhammad</th>
+    <th>By: Umm Muhammad</th>
   <right><th>ام محمد</th></right>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ table {
 <h3>I Wrote to You | كتبت لك</h3>
 <table>
   <tr>
-    <th>Umm Muhammed</th>
+    <th>By: Umm Muhammed</th>
     <right><th>ام محمد</th></right>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ table {
   </tr>
 </table>
 <p align="justify">
-<b>Translator’s note:</b> <i>Umm Muhammad draws on the imagery of a wasps sting to describe her heart’s stinging for her absent love. The word for wasp used in Yemen is <i>hirab</i>( حِرَبْ ) though some may recognize that the word is similar to that of <i>harb</i> (حرب), the Arabic word for war.</i>
+<b>Translator’s note:</b> <i>Umm Muhammad draws on the imagery of a wasp's sting to describe her heart’s stinging for her absent love. The word for wasp used in Yemen is <i>hirab</i>( حِرَبْ ) though some may recognize that the word is similar to that of <i>harb</i> (حرب), the Arabic word for war.</i>
 </p>
 </body>
 </html>
@@ -97,7 +97,7 @@ table {
 <h3>To the Dweller of the Grave |  إلى ساكن المقابر</h3>
 <table>
   <tr>
-    <th>A.Z.N.</th>
+    <th>By: A.Z.N.</th>
     <right><th>.أ.ز.ن</th></right>
   </tr>
   <tr>

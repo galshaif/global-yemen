@@ -47,6 +47,8 @@ Prange, Sebastian R. _Monsoon Islam: Trade and Faith on the Medieval Malabar Coa
 
 Reese, Scott S. _Imperial Muslims: Islam, Community and Authority in the Indian Ocean, 1839-1937_. Edinburgh University Press, 2017.
 
+Tagliacozzo, Eric. _In Asian Waters: Oceanic Worlds from Yemen to Yokohama_. Princeton University Press, 2022.
+
 Um, Nancy. _Shipped but Not Sold: Material Culture and the Social Protocols of Trade during Yemen’s Age of Coffee_. University of Hawaii Press, 2017.
 
 Um, Nancy. _The Merchant Houses of Mocha: Trade and Architecture in an Indian Ocean Port_. University of Washington Press, 2011.
